@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643043133308",
+    "project_id": "todoist-5c823",
+    "storage_bucket": "todoist-5c823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643043133308:android:be5a8112038e79703c86f9",
+        "android_client_info": {
+          "package_name": "com.yasir.todoist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuh42G1AiXp2FvDIC-1z1cZOdcsjp2l4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
